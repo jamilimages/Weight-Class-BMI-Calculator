@@ -23,8 +23,8 @@ int main()
 	const double POUNDS_TO_GM = 453.59;
 
 	// prompt user for input and accept input
-	// display the BMI value
-	// it runs the loop while the height is entered and not equal to 0.
+	// displays the BMI value
+	// this block of code runs the loop whilst the height is entered from user input & not equal to 0.
 
 	while (true) {
 		cout << "Emter your height (inches): ";
