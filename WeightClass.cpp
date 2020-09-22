@@ -27,7 +27,7 @@ int main()
 	// this block of code runs the loop whilst the height is entered from user input & not equal to 0.
 
 	while (true) {
-		cout << "Emter your height (inches): ";
+		cout << "Enter your height (inches): ";
 		cin >> height;
 		cout << endl;
 		if (height == 0)
