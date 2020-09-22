@@ -1,3 +1,5 @@
+// Written by Jamil Matheny
+
 #include <iostream>
 #include <string>
 #include <cmath>
