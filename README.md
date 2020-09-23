@@ -2,7 +2,7 @@
 The program that inspired me to lose weight. So I built it a calculator that calculates the total BMI based on height (inches) and weight.
 
 ### What I've learned
-- using a while loop to continuously run the program even after the total BMI has been presented to request more user input.
+- Using a while loop to continuously run the program even after the total BMI has been presented to request more user input.
 ```cpp
   	while (true) {
 		cout << "Enter your height (inches): ";
@@ -26,13 +26,13 @@ The program that inspired me to lose weight. So I built it a calculator that cal
 	}
 ```
 
-- calculating the Body Mass Index based on the total amount of inches in height and weight size the user puts in.
+- Calculating the Body Mass Index based on the total amount of inches in height and weight size the user puts in.
 ```cpp
   	const double INCH_TO_CM = 2.54;
 	const double POUNDS_TO_GM = 453.59;
 ```
 
-- using the cmath library to deliver the calculation of any random integer.
+- The 'cmath' library to deliver the calculation of any random integer.
 ```cpp
 	#include <cmath>
 ```
