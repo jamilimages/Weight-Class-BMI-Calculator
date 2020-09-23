@@ -9,7 +9,7 @@ The program that inspired me to lose weight. So I built it a calculator that cal
 
 #### Code that calculates the height and weight to get the Body Mass Index result
 
-```C+
+```cpp
   	const double INCH_TO_CM = 2.54;
 	const double POUNDS_TO_GM = 453.59;
 ```
