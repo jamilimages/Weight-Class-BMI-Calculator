@@ -7,6 +7,11 @@ The program that inspired me to lose weight. So I built it a calculator that cal
 - using the cmath library to deliver the calculation of any random integer.
 - eat less sugar and stay healthy in order to keep the weight off, lol! Focus on the BMI; not the weight! :)
 
+#### Code that calculates the height and weight to get the Body Mass Index result
+```C+
+  const double INCH_TO_CM = 2.54;
+	const double POUNDS_TO_GM = 453.59;
+
 ### How it works!
 - Download the release version in .ZIP or .TAR.GZ to extract the files or simply download the .EXE in the repository. Enjoy! :)
 
